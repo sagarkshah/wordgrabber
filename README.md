@@ -14,6 +14,8 @@ It is mandatory that a list of URL's to be scraped is fed to the script
 Other options:
 
 -o : Name of the output file you want
+
 -min: Minimum characters in a word to be scraped
+
 -max: Max characters in a word to be scraped
 
